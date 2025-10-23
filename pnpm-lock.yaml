@@ -51,7 +51,7 @@ importers:
         specifier: 5.9.2
         version: 5.9.2
 
-  apps/web:
+  apps/customer-admin-frontend:
     dependencies:
       '@repo/ui':
         specifier: workspace:*
